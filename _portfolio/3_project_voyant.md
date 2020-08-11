@@ -2,7 +2,7 @@
 layout: page
 title: Text Mining the Music Time in Africa scripts
 date: Posted March 16, 2017
-img: /img/voyant-post/titlepage.png
+img: /img/voyanticon.png
 
 ---
 <br/>

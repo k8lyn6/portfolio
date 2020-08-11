@@ -1,12 +1,12 @@
 # Site settings
-title: kaitlyn sisk
-email: ksisk@umich.edu
+title: kaitlyn sisk portfolio
+email: kaitlyn.sisk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  my HIST 698 portfolio
+  Kaitlyn Sisk's professional portfolio
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
-github_username:  github_username
+github_username:  k8lyn6
 
 # Build settings
 markdown: kramdown

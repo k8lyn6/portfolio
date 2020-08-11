@@ -1,0 +1,20 @@
+.resume h1{
+  color: #9370DB;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 40px;
+}
+
+.resume h2 {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.role {
+  font-style: italic;
+}
+.resume li{
+  list-style: square;
+}
+.education li {
+  list-style: none;
+}

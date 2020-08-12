@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <header class="site-header">
+
+    <div class="wrapper">
+      {% include nav.html %}
+    </div>
+
+  </header>
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="resume">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -2,7 +2,7 @@
 layout: home
 title: "Kaitlyn Sisk"
 ---
-# I am a Digital Archivist
+# [I am a Digital Archivist](resume.md)
 What's a digital archivist? Glad you asked. A digital archivist ensures the long-term preservation and access to today's digital materials. I have created policies and workflows for digital preservation from scratch at two different universities. The field of digital archiving is new and constantly evolving, and I have learned a lot about legacy storage media, file formats, and web archiving. To me, it is vital to preserve our materials today so that researchers in the future can access them.
 
 # [I am a programmer](https://github.com/k8lyn6)

@@ -9,11 +9,13 @@ title: "resume"
 ## Digital Archives Specialization (DAS) Certification
 Society of American Archivists
 2018
+<br/>
 
 ## University of Michigan School of Information
 Ann Arbor, Michigan
 April 2017
 <ul class="education"><li>Master of Science in Information, Specialization in Preservation of Information</li></ul>
+<br/>
 
 ## Rice University
 Houston, Texas
@@ -142,7 +144,7 @@ Fall 2015
 <br/>
 
 # Relevant Skills
-
+<br/>
 - **Familiarity with archival systems:** Archive-It, Archivematica, ArchivesSpace, CONTENTdm, DSpace, OHMS
 - **Programming Experience:** Python, HTML5/CSS, PHP
 - **Metadata Experience:** DACS, Dublin Core, METS, MODS, PREMIS
@@ -150,7 +152,7 @@ Fall 2015
 <br/>
 
 # Presentations and Posters
-
+<br/>
 Sisk, K. (2020). State of Digital Preservation in Texas Webinar. Presentation presented as part of panel with Texas Digital Libraries members virtually.
 
 Sisk, K. (2019). Preserving Analog and Digital Documentaries in Cuba. Presentation presented as part of a session at National Digital Stewardship Alliance DigiPres Conference, Tampa, FL.
